@@ -24,7 +24,7 @@
 ## 3. Test Case
 ### Test Case Menu Program
     Menampilkan menu program kasir
-     <img src="img/test-case-1.png" width="700"/>
+     ![alt text](https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase%20menu%20program.png?raw=true)
      
 ### Test Case 1
     Menambahkan item dengan method `add_item`
