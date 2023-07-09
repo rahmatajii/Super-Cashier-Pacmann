@@ -29,36 +29,38 @@ https://github.com/rahmatajii/Super-Cashier-Pacmann/issues/1#issue-1795457824
      
 ### Test Case 1
     Menambahkan item dengan method `add_item`
-    <img src="img/test-case-1.png" width="700"/>
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_1.jpg
     
 ### Test Case 2
     Menghapus item dengan method `delete_item`
-    <img src="img/test-case-2.png" width="700"/>
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_2.png
 
 ### Test Case 3
     Menghapus semua data transaksi dengan method `reset_transaction`
-    <img src="img/test-case-3.png" width="700"/>
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_3a.png
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_3b.png
 
 ### Test Case 4
     Mengubah nama produk dengan method `update_item_name`
-    <img src="img/test-case-4.png" width="700"/>
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_4.png
 
 ### Test Case 5
     Mengubah kuantitas produk dengan method `update_item_qty`
-    <img src="img/test-case-5.png" width="700"/>
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_5.png
 
 ### Test Case 6
     Mengubah harga produk dengan method `update_item_price`
-    <img src="img/test-case-6.png" width="700"/>
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_6.png
 
 ### Test Case 7
     Mengecek data order dengan method `check_order`
-    <img src="img/test-case-7.png" width="700"/>
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_7.png
 
 ### Test Case 8
     Menampilkan total belanja dengan method `total_price`
-    <img src="img/test-case-8.png" width="700"/>
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_8a.png
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_8b.png
 
 ### Test Case 9
     Keluar dari program kasir self-service
-    <img src="img/test-case-9.png" width="700"/>
+    https://github.com/rahmatajii/Super-Cashier-Pacmann/blob/main/img/testcase_9.png
